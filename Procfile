@@ -1,1 +1,1 @@
-web: python -m http.server --bind 0.0.0.0 5000
+web: python main.py

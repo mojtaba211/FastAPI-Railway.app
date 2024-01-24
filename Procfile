@@ -1,1 +1,1 @@
-web: python main.py
+web: echo $PORT;python main.py
